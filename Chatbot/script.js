@@ -5,7 +5,7 @@ const chatbox = document.querySelector(".chatbox");
 let userMessage;
 
 // https://platform.openai.com/api-keys
-const API_KEY = "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";
+const API_KEY = your_api_key;
 
 //add msg from text area
 const createChatLi = (message, className) => {
